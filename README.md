@@ -1,3 +1,5 @@
+![Portada](https://github.com/OctavioAlvarez1/OctavioAlvarez1/blob/main/portada.png)
+
 # ¡Hola! 👋 Soy Octavio
 
 Bienvenido a mi perfil de GitHub. Soy un **Data Scientist** apasionado por **el mundo de los datos**. Aquí encontrarás algunos de los proyectos en los que he trabajado y contribuciones que he realizado.
