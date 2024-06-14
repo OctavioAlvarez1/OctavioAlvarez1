@@ -2,7 +2,7 @@
 
 Bienvenido a mi perfil de GitHub. Soy un <strong>Data Scientist</strong> apasionado por <strong>el mundo de los datos</strong>. Aquí encontrarás algunos de los proyectos en los que he trabajado y contribuciones que he realizado.
 
-## Acerca de Mí
+## Acerca de mí
 Soy <strong>Licenciado en Periodismo y Analista en sistemas</strong> y cuento con un año y medio de <strong>experiencia</strong> en <strong>Diseño UX</strong>. Tengo varios cursos realizados con respecto a Diseño Web, Diseño UX, Desarrollo Web, y ciencia de datos. Actualmente <strong>finalicé el Bootcamp de Data Science en Soy Henry</strong>.
 
 ## Proyectos Destacados
