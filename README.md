@@ -7,8 +7,8 @@ Soy <strong>Licenciado en Periodismo y Analista en sistemas</strong> y cuento co
 
 ## Proyectos Destacados
 
-### [Gestor de Tareas](https://github.com/juanperez/gestor-de-tareas)
-Aplicación para gestionar tareas de manera eficiente usando React y Node.js.
+### [Proyecto Machine Learning Operations](https://github.com/OctavioAlvarez1/proyecto-individual-1-Soy-Henry))
+Este proyecto abarca una serie de pasos para desarrollar un proceso de Data Engineering sobre un dataset de juegos de la plataforma Steam, para posteriormente tener a disposición un conjunto de endpoints y un modelo de recomendación de juegos utilizando Machine Learning, a través de una API.
 
 ### [Clasificador de Imágenes](https://github.com/juanperez/clasificador-imagenes)
 Modelo de machine learning para clasificar imágenes utilizando TensorFlow.
