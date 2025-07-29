@@ -9,6 +9,11 @@ Soy **Licenciado en Periodismo y Analista en sistemas** y cuento con un año y m
 
 ## <img src="https://img.icons8.com/color/48/000000/project.png" width="30" height="30"> Proyectos Destacados
 
+### [Proyecto Data Engineer](https://github.com/OctavioAlvarez1/AirbnbNYC.git)
+Desarrollé un pipeline de análisis y visualización utilizando datos públicos de Airbnb en Nueva York. El proyecto incluyó limpieza y transformación del dataset con Python (pandas), exportación en formato Parquet, carga en un bucket público de AWS S3, y visualización interactiva mediante Power BI conectado por URL.
+
+Incluye métricas clave como precio promedio, distribución de habitaciones, porcentaje de disponibilidad ideal y segmentación por distrito. Se aplicaron buenas prácticas de ETL, análisis exploratorio y diseño de dashboards con enfoque en performance y claridad visual.
+
 ### [Proyecto Machine Learning Operations](https://github.com/OctavioAlvarez1/proyecto-individual-1-Soy-Henry)
 Este proyecto abarca una serie de pasos para desarrollar un proceso de Data Engineering sobre un dataset de juegos de la plataforma Steam, para posteriormente tener a disposición un conjunto de endpoints y un modelo de recomendación de juegos utilizando Machine Learning, a través de una API.
 
