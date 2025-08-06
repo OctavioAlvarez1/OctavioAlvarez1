@@ -29,6 +29,10 @@ Este proyecto de Data Analytics fue creado utilizando librerías de Python para 
 - Power BI
 - Excel
 - Figma
+- Tableau
+- Qlik Sense
+- Looker Studio
+- AWS
 
 ## <img src="https://img.icons8.com/color/48/000000/communication.png" width="30" height="30"> Conectemos
 - [LinkedIn](https://www.linkedin.com/in/octavio-alvarez-6a229b223/)
