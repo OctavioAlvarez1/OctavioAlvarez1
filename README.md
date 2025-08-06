@@ -1,4 +1,4 @@
-![Portada](https://github.com/OctavioAlvarez1/OctavioAlvarez1/blob/main/portada.png)
+![Portada](https://github.com/OctavioAlvarez1/OctavioAlvarez1/blob/main/hola.png)
 
 # ¡Hola! 👋 Soy Octavio
 
